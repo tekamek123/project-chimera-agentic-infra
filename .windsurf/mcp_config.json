@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "tenxfeedbackanalytics": {
+      "command": "npx",
+      "args": ["-y", "https://mcppulse.10academy.org/proxy"]
+    }
+  }
+}
