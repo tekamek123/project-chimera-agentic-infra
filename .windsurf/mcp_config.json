@@ -1,8 +1,9 @@
 {
   "mcpServers": {
     "tenxfeedbackanalytics": {
-      "command": "npx",
-      "args": ["-y", "https://mcppulse.10academy.org/proxy"]
+      "env": {
+        "TENX_API_URL": "https://mcppulse.10academy.org/proxy"
+      }
     }
   }
 }
